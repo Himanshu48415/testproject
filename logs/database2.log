@@ -1,0 +1,9 @@
+04/02/2024 04:10:29 PM - 16847 - root - INFO - 48 - Retrieved user by name: Name='Ramesh', Email='ramesh@example.com' 
+04/02/2024 04:10:29 PM - 16847 - root - ERROR - 29 - Error: User with name 'Ramesh' already exists. 
+04/02/2024 04:10:29 PM - 16847 - root - WARNING - 50 - User with name 'oiahf' not found 
+04/02/2024 04:24:08 PM - 17087 - root - WARNING - 50 - User with name 'Mukesh' not found 
+04/02/2024 04:24:08 PM - 17087 - root - WARNING - 64 - User with email 'mukesh@example.com' not found 
+04/02/2024 04:24:08 PM - 17087 - root - INFO - 40 - User 'Mukesh' added successfully. 
+04/02/2024 04:24:08 PM - 17087 - root - WARNING - 50 - User with name 'oiahf' not found 
+04/02/2024 04:25:57 PM - 17195 - root - WARNING - 50 - User with name 'mukesh@example.com' not found 
+04/02/2024 04:26:14 PM - 17267 - root - INFO - 62 - Retrieved user by email: Name='Mukesh', Email='mukesh@example.com' 

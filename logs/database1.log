@@ -1,0 +1,13 @@
+04/02/2024 04:28:01 PM - 17372 - mysql.connector - INFO - 149 - package: mysql.connector.plugins 
+04/02/2024 04:28:01 PM - 17372 - mysql.connector - INFO - 150 - plugin_name: caching_sha2_password 
+04/02/2024 04:28:01 PM - 17372 - mysql.connector - INFO - 154 - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin 
+04/02/2024 04:28:01 PM - 17372 - root - WARNING - 50 - User with name 'Mukesh' not found 
+04/02/2024 04:28:01 PM - 17372 - root - WARNING - 64 - User with email 'mukesh@example.com' not found 
+04/02/2024 04:28:01 PM - 17372 - root - INFO - 40 - User 'Mukesh' added successfully. 
+04/02/2024 04:28:01 PM - 17372 - root - INFO - 62 - Retrieved user by email: Name='Mukesh', Email='mukesh@example.com' 
+04/02/2024 04:42:51 PM - 17642 - mysql.connector - INFO - 149 - package: mysql.connector.plugins 
+04/02/2024 04:42:51 PM - 17642 - mysql.connector - INFO - 150 - plugin_name: caching_sha2_password 
+04/02/2024 04:42:51 PM - 17642 - mysql.connector - INFO - 154 - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin 
+04/02/2024 04:42:51 PM - 17642 - root - INFO - 48 - Retrieved user by name: Name='Mukesh', Email='mukesh@example.com' 
+04/02/2024 04:42:51 PM - 17642 - root - ERROR - 29 - Error: User with name 'Mukesh' already exists. 
+04/02/2024 04:42:51 PM - 17642 - root - INFO - 62 - Retrieved user by email: Name='Mukesh', Email='mukesh@example.com' 
